@@ -6,7 +6,7 @@ Write a program to check if a student has passed. If marks ≥ 50, check if mark
 then display “Passed with Distinction”. Otherwise, display “Just Passed”.
 \*
 
-```
+```c
 #include <stdio.h>
 
 int main(void){
@@ -24,3 +24,4 @@ int main(void){
     }
     return 0;
 }
+```
